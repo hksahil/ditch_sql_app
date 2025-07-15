@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+duckdb
+streamlit_ace
+annotated_text
+streamlit_option_menu
