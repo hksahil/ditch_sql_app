@@ -1,7 +1,7 @@
-streamlit
-pandas
-numpy
-duckdb
-streamlit_ace
-annotated_text
-streamlit_option_menu
+streamlit==1.35.0
+pandas==2.2.2
+numpy==1.26.4
+duckdb==0.10.2
+streamlit-ace==0.1.1
+annotated-text==0.0.5
+streamlit-option-menu==0.3.6
